@@ -7,7 +7,7 @@ Experienced Web Developer Professional. Seeking Opportunities to Contribute Orga
 Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Javascript. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JihadIslam23/Jihad-Islam)  
